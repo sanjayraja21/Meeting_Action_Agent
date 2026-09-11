@@ -37,21 +37,16 @@ Recorded Meeting or Live Audio
 
 ```text
 Meeting_Action_Agent/
-+-- app/
-�   +-- main.py
-+-- agent/
-�   +-- meeting_agent.py
-+-- audio/
-�   +-- media.py
-�   +-- transcription.py
-+-- utils/
-�   +-- exports.py
-�   +-- validation.py
-+-- outputs/
-+-- tests/
-+-- README.md
-+-- requirements.txt
-+-- .gitignore
+├── app/
+├── agent/
+├── audio/
+├── utils/
+├── screenshots/
+│   ├── recorded_meeting.png
+│   └── meeting_transcript.png
+├── README.md
+├── requirements.txt
+└── .gitignore
 ```
 
 ## Windows installation
